@@ -1,0 +1,38 @@
+2024-03-28 22:04:38 - INFO - Loss at epoch 0: 0.11126943677663803
+2024-03-28 22:30:36 - INFO - Validation scores at epoch: 0
+2024-03-28 22:30:36 - INFO -   Method: Bleu_1, Score: 0.4868
+2024-03-28 22:30:36 - INFO -   Method: Bleu_2, Score: 0.2444
+2024-03-28 22:30:36 - INFO -   Method: Bleu_3, Score: 0.1230
+2024-03-28 22:30:36 - INFO -   Method: Bleu_4, Score: 0.0576
+2024-03-28 22:30:36 - INFO -   Method: CIDEr, Score: 0.0767
+2024-03-28 22:30:37 - INFO - New best score: 0.07665876446399073. Model saved
+2024-03-28 23:20:07 - INFO - Loss at epoch 1: 0.13326792418956757
+2024-03-29 00:09:41 - INFO - Loss at epoch 2: 0.08425413072109222
+2024-03-29 00:58:59 - INFO - Loss at epoch 3: 0.0709216296672821
+2024-03-29 01:23:12 - INFO - Validation scores at epoch: 3
+2024-03-29 01:23:12 - INFO -   Method: Bleu_1, Score: 0.5257
+2024-03-29 01:23:12 - INFO -   Method: Bleu_2, Score: 0.2672
+2024-03-29 01:23:12 - INFO -   Method: Bleu_3, Score: 0.1349
+2024-03-29 01:23:12 - INFO -   Method: Bleu_4, Score: 0.0664
+2024-03-29 01:23:12 - INFO -   Method: CIDEr, Score: 0.0964
+2024-03-29 01:23:14 - INFO - New best score: 0.0963601208085802. Model saved
+2024-03-29 02:12:33 - INFO - Loss at epoch 4: 0.08542051166296005
+2024-03-29 03:02:12 - INFO - Loss at epoch 5: 0.08318184316158295
+2024-03-29 03:51:27 - INFO - Loss at epoch 6: 0.08254706114530563
+2024-03-29 04:19:19 - INFO - Validation scores at epoch: 6
+2024-03-29 04:19:19 - INFO -   Method: Bleu_1, Score: 0.4870
+2024-03-29 04:19:19 - INFO -   Method: Bleu_2, Score: 0.2567
+2024-03-29 04:19:19 - INFO -   Method: Bleu_3, Score: 0.1229
+2024-03-29 04:19:19 - INFO -   Method: Bleu_4, Score: 0.0668
+2024-03-29 04:19:19 - INFO -   Method: CIDEr, Score: 0.0809
+2024-03-29 05:08:36 - INFO - Loss at epoch 7: 0.12005536258220673
+2024-03-29 05:57:50 - INFO - Loss at epoch 8: 0.09321021288633347
+2024-03-29 06:47:28 - INFO - Loss at epoch 9: 0.10541175305843353
+2024-03-29 07:14:21 - INFO - Validation scores at epoch: 9
+2024-03-29 07:14:21 - INFO -   Method: Bleu_1, Score: 0.4634
+2024-03-29 07:14:21 - INFO -   Method: Bleu_2, Score: 0.2303
+2024-03-29 07:14:21 - INFO -   Method: Bleu_3, Score: 0.1015
+2024-03-29 07:14:21 - INFO -   Method: Bleu_4, Score: 0.0499
+2024-03-29 07:14:21 - INFO -   Method: CIDEr, Score: 0.0711
+2024-03-29 08:03:37 - INFO - Loss at epoch 10: 0.17701520025730133
+2024-03-29 08:52:50 - INFO - Loss at epoch 11: 0.061902523040771484
